@@ -1,0 +1,11 @@
+.footer{
+    background-color:rgba(38, 50, 56, 1) ;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 50px;
+    width:1300px;
+    height:229px;
+}
+/* d-flex justiy-between" style={{textAlign:'center',color:'white',width:'1550,34px',height:'229px',backgroundColor:'rgba(38, 50, 56, 1)',padding:'44.55px, 114.85px, 44.55px, 114.85px',gap:'87.01px'}} */
