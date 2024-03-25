@@ -15,29 +15,23 @@ import Phone from "./phone.png";
 function App() {
   return (
     <div className="container">
-      <Header></Header> <br /> <br />
+      <Header></Header>
       <HeroSection />
-      <br />
+     
       <Clients></Clients>
-      <br />
+      
       <Community></Community>
-      <br />
-      <br />
+     
       <Unlock image={ImageA}></Unlock>
-      <br />
-      <br />
+    
       <Achievement></Achievement>
-      <br />
-      <br />
+    
       <Unlock image={Phone}></Unlock>
-      <br />
+      
       <CommunityUpdate></CommunityUpdate>
-      <br />
-      <br />
-      <br />
+      <br/> <br/><br/>
       <GetDemo></GetDemo>
-      <br />
-      <br />
+    
       <Footer></Footer>
     </div>
   );
